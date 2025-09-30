@@ -407,11 +407,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📧 Contact
-
-- GitHub: [@DedInc](https://github.com/DedInc)
-- Email: visitanimation@gmail.com
-
 ## 🙏 Acknowledgments
 
 - Based on the Python [oprouter](https://github.com/DedInc/oprouter) library
